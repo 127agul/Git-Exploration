@@ -12,7 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Hi my name is Amina");
 
-            System.out.println("Hi Amina, I am Amit A.");
+            System.out.println("Hi Amina, I am Amit A");
         }
     }
 }
